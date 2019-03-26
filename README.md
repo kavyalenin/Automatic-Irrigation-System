@@ -8,24 +8,24 @@ ADVANTAGES
 
 
 MODULES:
-<b>KARTHIK.T(15CSA28)</b>
+<b>KARTHIK.T(15CSA28)
 
-*SENSORS AND CONTROL INTEGRATION  -------
+*SENSORS AND CONTROL INTEGRATION  -------</b>
 
 Description:The first module to describe was sensor and control integration. Here in this module there are four types of sensors such as soil moisture, water level, rain drop, temperature and humidity where these were integrated using esp8266 Wi-Fi module.
 
-MAHESH RAJ.R(15CSA33)
+<b>MAHESH RAJ.R(15CSA33)
 
-*SENSORS DATA TO CLOUD INTEGRATION ------
+*SENSORS DATA TO CLOUD INTEGRATION ------</b>
 
 Description:Sensor data to cloud integration is that they collect data from the sensors and save it the local server cloud using XAMPP and PHPMYADMIN. This module continuously helps in updating all data into cloud for continuous access.
 
 
 
 
-KAVYA LENIN(15CSA31)
+<b>KAVYA LENIN(15CSA31)
 
-*SMART IRRIGATION APP MODULE  -----------
+*SMART IRRIGATION APP MODULE  -----------</b>
 
 
 Desciption:The app module collects every data from the sensor and sends notifications to the user through mobile. First the user should login and enter the details.The crops will be displayed and when a particular crop was selected the sensor data will be sent as the notification to the user
